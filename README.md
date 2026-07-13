@@ -2,7 +2,7 @@
 
 Build a “DeskRhythm”
 
-Create a small personal app for people who sit in front of a computer for long hours that helps them listen to their body, not just the clock.
+Create a small personal app for people who sit in front for long hours that helps them listen to their body, not just the clock and privacy first
 
 The tool should:
 
